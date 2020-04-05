@@ -12,6 +12,6 @@ Help users find a place to eat for dinner. They will be able to form groups of p
 
 ![hamburger menu wire](./hamburger-menu-wire.png)
 
-![chef mode home menu wire](./chef-mode-home-menu-wire.png)
+![chef mode home wire](./chef-mode-home-wire.png)
 
 ![match alert wire](./match-alert-wire.png)
