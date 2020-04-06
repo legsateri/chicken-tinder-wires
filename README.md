@@ -10,10 +10,22 @@ Help users find a place to eat for dinner. They will be able to form groups of p
 
 ![account wire](./account-wire.png)
 
+![new group wire](./new-group-page-wire.png)
+
+![group wire](./group-page-wire.png)
+
+![restaurant search wire](./restaurant-search-page-wire.png)
+
+![match alert wire](./match-alert-wire.png)
+
+![match page wire](./match-page-wire.png)
+
+![chat list wire](./chat-list-wire.png)
+
+![individual chat wire](./individual-chat-wire.png)
+
 ![hamburger menu wire](./hamburger-menu-wire.png)
 
 ![chef mode home wire](./chef-mode-home-wire.png)
 
 ![chef mode results wire](./chef-mode-results-page-wire.png)
-
-![match alert wire](./match-alert-wire.png)
